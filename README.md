@@ -17,7 +17,3 @@ React, TypeScript ve Tailwind CSS kullanılarak inşa edilmiştir ve Node.js + P
 - Node.js + Express (backend)  
 - Prisma ORM  
 - PostgreSQL (Neon.tech)
-
-## 🌍 Canlı Sürüm
-Frontend: [https://hr-frontend-demo.onrender.com](https://hr-frontend-demo.onrender.com)  
-Backend: [https://hr-backend-demo.onrender.com](https://hr-backend-demo.onrender.com)
